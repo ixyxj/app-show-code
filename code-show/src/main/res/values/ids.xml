@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tl_tag" type="id"/>
+    <item name="vp_layout" type="id"/>
+</resources>
